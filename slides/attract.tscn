@@ -1,0 +1,47 @@
+[gd_scene format=3 uid="uid://caxn5imggslwi"]
+
+[ext_resource type="Script" uid="uid://dru3usokwlhd3" path="res://addons/mpf-gmc/classes/mpf_slide.gd" id="1_r1mnt"]
+[ext_resource type="Script" uid="uid://dpe3dq8axt3g7" path="res://addons/mpf-gmc/classes/mpf_carousel.gd" id="2_hhxni"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_r1mnt"]
+font_size = 200
+
+[node name="Attract" type="Control" unique_id=1270388127]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_r1mnt")
+metadata/_custom_type_script = "uid://dru3usokwlhd3"
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1077573784]
+layout_mode = 0
+offset_left = -69.0
+offset_top = -63.0
+offset_right = 1335.0
+offset_bottom = 1123.0
+color = Color(0.7411302, 1.3957917e-06, 0.43479702, 1)
+
+[node name="MPFCarousel" type="Control" parent="." unique_id=1372340194]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("2_hhxni")
+carousel_name = "attract"
+metadata/_custom_type_script = "uid://dpe3dq8axt3g7"
+
+[node name="title" type="Label" parent="MPFCarousel" unique_id=1940173323]
+layout_mode = 0
+offset_left = -77.0
+offset_top = -62.0
+offset_right = 1336.0
+offset_bottom = 922.0
+text = "hiiiiii"
+label_settings = SubResource("LabelSettings_r1mnt")
+
+[node name="test" type="Label" parent="MPFCarousel" unique_id=2061779554]
+layout_mode = 0
+offset_left = -77.0
+offset_top = -62.0
+offset_right = 1336.0
+offset_bottom = 922.0
+text = "test"
+label_settings = SubResource("LabelSettings_r1mnt")
