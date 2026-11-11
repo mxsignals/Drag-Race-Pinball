@@ -1,0 +1,8 @@
+2026-11-11 13:59:03,806 : INFO : root : Loading config.
+2026-11-11 13:59:03,806 : INFO : root : Raw command line: -xt
+2026-11-11 13:59:03,808 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-11-11 13:59:03,808 : WARNING : ConfigProcessor : Config file in cache changed: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml
+2026-11-11 13:59:03,808 : INFO : ConfigProcessor : Loading config from file /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/mpfconfig.yaml.
+2026-11-11 13:59:03,814 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/mpfconfig.yaml
+2026-11-11 13:59:03,814 : INFO : ConfigProcessor : Loading config from file /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml.
+2026-11-11 13:59:03,815 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml

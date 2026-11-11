@@ -1,0 +1,67 @@
+2026-11-11 13:58:02,071 : INFO : root : Loading config.
+2026-11-11 13:58:02,071 : INFO : root : Raw command line: -xt
+2026-11-11 13:58:02,073 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-11-11 13:58:02,073 : WARNING : ConfigProcessor : Config file in cache changed: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml
+2026-11-11 13:58:02,073 : INFO : ConfigProcessor : Loading config from file /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/mpfconfig.yaml.
+2026-11-11 13:58:02,079 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/mpfconfig.yaml
+2026-11-11 13:58:02,079 : INFO : ConfigProcessor : Loading config from file /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml.
+2026-11-11 13:58:02,080 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml
+2026-11-11 13:58:02,080 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config_coils.yaml
+2026-11-11 13:58:02,080 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config_switches.yaml
+2026-11-11 13:58:02,081 : INFO : ConfigProcessor : Config file cache created: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/9bc5209057007eaa389323412d21ad83.mpf_cache
+2026-11-11 13:58:02,115 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/2d8bb9d654501c588fda9053836116ab.mpf_cache
+2026-11-11 13:58:02,115 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/066b79e761463915a0b42d0c91b791dd.mpf_cache
+2026-11-11 13:58:02,115 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/2d8bb9d654501c588fda9053836116ab.mpf_cache
+2026-11-11 13:58:02,115 : INFO : Machine : Mission Pinball Framework Core Engine v0.81.0
+2026-11-11 13:58:02,115 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'echo_args': True, 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs/2026-11-11-13-58-02-mpf-Mac.lan.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': '/Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/logs/2026-11-11-13-58-02-mpf-Mac.lan.log'}
+2026-11-11 13:58:02,115 : INFO : Machine : MPF path: /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf
+2026-11-11 13:58:02,115 : INFO : Machine : Machine path: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball
+2026-11-11 13:58:02,115 : INFO : Machine : Platform: darwin
+2026-11-11 13:58:02,115 : INFO : Machine : Python executable location: /Users/archerossmann/mpf/bin/python3.12
+2026-11-11 13:58:02,115 : INFO : Machine : Python version: 3.12.1 (64-bit)
+2026-11-11 13:58:02,116 : INFO : Machine : Initializing MPF...
+2026-11-11 13:58:02,155 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,162 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,162 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.81.0', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,162 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.81.0, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,163 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.1', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,178 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'macOS-26.6.2-arm64-arm-64bit', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,179 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Darwin', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,179 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '25.6.0', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,179 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': 'Darwin Kernel Version 25.6.0: Fri Jul 31 19:18:43 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8112', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,179 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'arm64', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,179 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': '/Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/logs/2026-11-11-13-58-02-mpf-Mac.lan.log', 'prev_value': None, 'change': True}
+2026-11-11 13:58:02,179 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-11-11 13:58:02,184 : ERROR : asyncio : Exception in callback EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...our config.')>) at /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/events.py:124
+handle: <Handle EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...our config.')>) at /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/events.py:124>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/events.py", line 127, in _async_handler_done
+    future.result()
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/device_manager.py", line 88, in _load_device_modules
+    self.load_devices_config(validate=True)
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/device_manager.py", line 146, in load_devices_config
+    config[device_name] = collection[device_name].validate_and_parse_config(config[device_name], False)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/device.py", line 108, in validate_and_parse_config
+    self.machine.config_validator.validate_config(
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/config_validator.py", line 163, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/config_validator.py", line 203, in _validate_config
+    processed_config[k] = self.validate_config_item(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/config_validator.py", line 242, in validate_config_item
+    return self.validate_item(item, validation, validation_failure_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/config_validator.py", line 698, in validate_item
+    return self.validator_list[validator](item, validation_failure_info=validation_failure_info, param=param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/core/config_validator.py", line 412, in _validate_type_machine
+    raise self.validation_error(item, validation_failure_info,
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Config validation error: Entry playfields:playfield:default_source_device = "bd_trough" is not valid. Device "bd_trough" not found in "ball_devices:" section in your config. Error Code: CFE-ConfigValidator-6 (https://missionpinball.org/latest/logs)
+2026-11-11 13:58:02,186 : INFO : Machine : Shutting down...
+2026-11-11 13:58:02,186 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-11-11 13:58:03,188 : ERROR : Machine : MPF Initialization was interrupted or aborted before completing.
+2026-11-11 13:58:03,189 : INFO : root : MPF run loop ended.

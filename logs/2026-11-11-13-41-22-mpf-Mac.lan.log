@@ -1,0 +1,179 @@
+2026-11-11 13:41:22,138 : INFO : root : Loading config.
+2026-11-11 13:41:22,138 : INFO : root : Raw command line: -xt
+2026-11-11 13:41:22,140 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-11-11 13:41:22,140 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/9bc5209057007eaa389323412d21ad83.mpf_cache
+2026-11-11 13:41:22,141 : WARNING : ConfigProcessor : Config file in cache changed: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config_switches.yaml
+2026-11-11 13:41:22,141 : INFO : ConfigProcessor : Loading config from file /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/mpfconfig.yaml.
+2026-11-11 13:41:22,146 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf/mpfconfig.yaml
+2026-11-11 13:41:22,146 : INFO : ConfigProcessor : Loading config from file /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml.
+2026-11-11 13:41:22,147 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config.yaml
+2026-11-11 13:41:22,147 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config_ball_devices.yaml
+2026-11-11 13:41:22,148 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config_coils.yaml
+2026-11-11 13:41:22,148 : INFO : ConfigProcessor : Loading config: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/config/config_switches.yaml
+2026-11-11 13:41:22,149 : INFO : ConfigProcessor : Config file cache created: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/9bc5209057007eaa389323412d21ad83.mpf_cache
+2026-11-11 13:41:22,190 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/2d8bb9d654501c588fda9053836116ab.mpf_cache
+2026-11-11 13:41:22,190 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/066b79e761463915a0b42d0c91b791dd.mpf_cache
+2026-11-11 13:41:22,191 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/2d8bb9d654501c588fda9053836116ab.mpf_cache
+2026-11-11 13:41:22,191 : INFO : ConfigProcessor : Loading config from cache: /var/folders/l3/l5275yys41n2x9k30qd6x9nh0000gp/T/314f1f094163c059cb34ea56c7ebf551.mpf_cache
+2026-11-11 13:41:22,191 : INFO : Machine : Mission Pinball Framework Core Engine v0.81.0
+2026-11-11 13:41:22,191 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'echo_args': True, 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs/2026-11-11-13-41-22-mpf-Mac.lan.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': '/Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/logs/2026-11-11-13-41-22-mpf-Mac.lan.log'}
+2026-11-11 13:41:22,191 : INFO : Machine : MPF path: /Users/archerossmann/mpf/lib/python3.12/site-packages/mpf
+2026-11-11 13:41:22,191 : INFO : Machine : Machine path: /Users/archerossmann/Desktop/pinball/Drag-Race-Pinball
+2026-11-11 13:41:22,191 : INFO : Machine : Platform: darwin
+2026-11-11 13:41:22,191 : INFO : Machine : Python executable location: /Users/archerossmann/mpf/bin/python3.12
+2026-11-11 13:41:22,191 : INFO : Machine : Python version: 3.12.1 (64-bit)
+2026-11-11 13:41:22,191 : INFO : Machine : Initializing MPF...
+2026-11-11 13:41:22,239 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,250 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,250 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.81.0', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,250 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.81.0, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,250 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.1', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,273 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'macOS-26.6.2-arm64-arm-64bit', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,273 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Darwin', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,273 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '25.6.0', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,273 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': 'Darwin Kernel Version 25.6.0: Fri Jul 31 19:18:43 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8112', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,273 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'arm64', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,273 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': '/Users/archerossmann/Desktop/pinball/Drag-Race-Pinball/logs/2026-11-11-13-41-22-mpf-Mac.lan.log', 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,273 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-11-11 13:41:22,280 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-11-11 13:41:22,280 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2026-11-11 13:41:22,280 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2026-11-11 13:41:22,284 : INFO : BCPClientSocket : Connected BCP to 'local_display' localhost:5050
+2026-11-11 13:41:22,285 : INFO : EventManager : Event: ======'bcp_clients_connected'====== Args={}
+2026-11-11 13:41:22,285 : INFO : ball_device.bd_plunger : BCH: Initial count: 0
+2026-11-11 13:41:22,285 : INFO : ball_device.bd_plunger : State: idle
+2026-11-11 13:41:22,285 : INFO : ball_device.bd_trough : BCH: Initial count: 0
+2026-11-11 13:41:22,285 : INFO : ball_device.bd_trough : State: idle
+2026-11-11 13:41:22,288 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-11-11 13:41:22,289 : INFO : BallController : Initial balls found: 0
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_left'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_plunger_lane'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_flipper_right'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_2'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_3'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,289 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2026-11-11 13:41:22,290 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-11-11 13:41:22,290 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-11-11 13:41:22,290 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-11-11 13:41:22,294 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-11-11 13:41:22,295 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-11-11 13:41:22,295 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-11-11 13:41:22,295 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2026-11-11 13:41:22,295 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2026-11-11 13:41:22,295 : INFO : Mode.attract : Started. Priority: 10
+2026-11-11 13:41:22,295 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-11-11 13:41:22,296 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2026-11-11 13:41:22,296 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-11-11 13:41:22,296 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-11-11 13:41:22,336 : INFO : EventManager : Event: ======'slide_attract_created'====== Args={'_from_bcp': True}
+2026-11-11 13:41:22,336 : INFO : EventManager : Event: ======'slide__removed'====== Args={'_from_bcp': True}
+2026-11-11 13:41:22,338 : INFO : EventManager : Event: ======'slide_attract_active'====== Args={'original_context': 'attract', 'original_calling_context': 'mode_attract_started', 'priority': 10.0, 'cmd': 'slides_play', '_from_bcp': True}
+2026-11-11 13:41:24,710 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:24,826 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:27,244 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:27,344 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:28,160 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:28,693 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:29,160 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:29,294 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:29,593 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:29,710 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:29,960 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:30,043 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:30,194 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:30,277 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:30,360 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:30,478 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:30,662 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:30,727 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:30,827 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:30,926 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:31,011 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:31,094 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:31,194 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:31,277 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:31,360 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:31,443 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:31,560 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:31,644 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:31,727 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:31,844 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:31,911 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:32,010 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:32,077 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:32,177 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:32,278 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:32,360 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:32,461 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:32,560 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:32,660 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:32,725 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:32,826 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:32,893 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:32,994 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:33,094 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:33,193 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:33,277 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:33,378 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:33,677 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:33,943 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:34,043 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:34,360 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:34,444 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:34,660 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:34,710 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:34,911 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:34,976 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:35,160 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:35,260 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:35,427 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:35,527 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:35,594 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:35,794 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:35,960 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:36,077 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:36,194 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:36,343 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:36,427 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:36,493 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:36,594 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:36,676 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:36,777 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:36,859 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:36,943 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:37,059 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:37,142 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:37,210 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:37,578 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:37,793 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:37,993 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:38,094 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:38,377 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:38,460 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:38,760 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:38,827 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:39,126 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:39,191 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:39,443 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:39,527 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:39,744 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2026-11-11 13:41:39,844 : INFO : SwitchController : <<<<<<< 's_flipper_right' inactive >>>>>>>
+2026-11-11 13:41:40,160 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:40,244 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:40,327 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:40,394 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:40,495 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:40,560 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:40,644 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:40,727 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:40,941 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:40,993 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:41:41,093 : INFO : SwitchController : <<<<<<< 's_flipper_left' active >>>>>>>
+2026-11-11 13:41:41,226 : INFO : SwitchController : <<<<<<< 's_flipper_left' inactive >>>>>>>
+2026-11-11 13:56:11,356 : INFO : Machine : Shutting down...
+2026-11-11 13:56:11,358 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-11-11 13:56:11,368 : INFO : root : MPF run loop ended.

@@ -6,11 +6,3 @@ switches:
   s_flipper_right:
     number:
     tags: right_flipper
-  s_trough_1:
-    number:
-  s_trough_2:
-    number:
-  s_trough_3:
-    number:
-  s_plunger_lane:
-    number:
